@@ -43,3 +43,4 @@ Keep both terminals running. This project cannot start processes on your own com
 
 ## Important
 This is a learning/demo project. Before production, add authentication/authorization, rate limiting, stronger validation, secure secrets, and deployment configuration.
+"# CEMP" 
